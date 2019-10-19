@@ -1,10 +1,11 @@
-# Title
+# fcc-markdown-previewer
 
-*by Your Name here*
+by Joel Zehring
 
 ## About
 
-Write about your project here.
+Hosted on CodePen here: https://codepen.io/joelzehring/pen/ZEEBWJq
+Based on multipass by Matthew Carpenter: http://www.gethashset.com/pages/frontend-index.html
 
 ## Index
 
