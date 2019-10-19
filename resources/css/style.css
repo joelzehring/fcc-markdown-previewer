@@ -1,0 +1,47 @@
+/* ----------------------------- */
+/* ---------- Desktop ---------- */
+/* ----------------------------- */
+
+body {
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+}
+
+section {
+	back
+}
+
+
+/* ------------------------------------------------------------------------------------------------------- */
+/* ------------------------------------------ Media Query Start ------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------------- */
+
+/* ---------------------------- */
+/* ----- Tablets Portrait ----- */
+/* ---------------------------- */
+
+@media only screen and (min-width : 320px) and (max-width : 900px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+
+}
+
+/* ----------------------------- */
+/* ----- Tablets Landscape ----- */
+/* ----------------------------- */
+@media only screen and (min-width : 320px) and (max-width : 1100px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+
+}
+
+/* ---------------------------------- */
+/* ----- Mobile Phones Portrait ----- */
+/* ---------------------------------- */
+@media only screen and (min-width : 320px) and (max-width : 800px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+
+}
+
+/* ----------------------------------- */
+/* ----- Mobile Phones Landscape ----- */
+/* ----------------------------------- */
+@media only screen and (min-width : 320px) and (max-width : 900px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+
+}
+
+
