@@ -6,9 +6,19 @@
 			font-family: sans-serif, Arial, Helvetica, sans-serif;
 	}
 
-	section {
-		back
+	#editor {
+		height: 90%;
 	}
+
+	#preview {
+		padding: .5em;
+	}
+
+	h1 > span {
+		font-size: .3em;
+	}
+
+
 
 
 	/* ------------------------------------------------------------------------------------------------------- */
@@ -27,7 +37,9 @@
 	/* ----- Tablets Landscape ----- */
 	/* ----------------------------- */
 	@media only screen and (min-width : 320px) and (max-width : 1100px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
-
+		#editor {
+		height: 90%;
+	}
 	}
 
 	/* ---------------------------------- */
@@ -41,7 +53,9 @@
 	/* ----- Mobile Phones Landscape ----- */
 	/* ----------------------------------- */
 	@media only screen and (min-width : 320px) and (max-width : 900px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
-
+	#editor {
+		height: 90%;
+	}
 	}
 
 
