@@ -33,7 +33,7 @@ Markdown is great for writing about code:
 
 You can learn more about me at [my site](https://joelz.me)!
 
-![Markdown logo](https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg)
+![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png)
 `
 
 	let previewText = marked( editorText, {gfm: true, breaks: true} );
